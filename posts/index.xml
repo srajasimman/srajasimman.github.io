@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hello Friend</title>
+    
+    
+    
+    <link>http://srajasimman.github.io/posts/</link>
+    <description>Recent content in Posts on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jul 2020 17:05:42 +0530</lastBuildDate>
+    
+	<atom:link href="http://srajasimman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello friend | welcome to my blog</title>
+      <link>http://srajasimman.github.io/posts/hello-friend/</link>
+      <pubDate>Thu, 30 Jul 2020 17:05:42 +0530</pubDate>
+      
+      <guid>http://srajasimman.github.io/posts/hello-friend/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          My personal blog created with hugo
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
